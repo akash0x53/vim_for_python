@@ -1,0 +1,284 @@
+
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+Searching for "debian.vim" in "/home/akash/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/debian.vim"
+Searching for "/usr/share/vim/vimfiles/debian.vim"
+Searching for "/usr/share/vim/vim73/debian.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 11: sourcing "/usr/share/vim/vim73/debian.vim"
+finished sourcing /usr/share/vim/vim73/debian.vim
+continuing in /usr/share/vim/vimrc
+Searching for "/usr/share/vim/vimfiles/after/debian.vim"
+Searching for "/home/akash/.vim/after/debian.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim73/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/syntax/synload.vim"
+Searching for "/var/lib/vim/addons/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim73/syntax/synload.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim73/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim73/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim73/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+continuing in /usr/share/vim/vim73/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/akash/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/synload.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "filetype.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim73/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim73/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/home/akash/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/akash/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syntax.vim
+continuing in /usr/share/vim/vimrc
+finished sourcing $VIM/vimrc
+chdir(/home/akash)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+Searching for "ftoff.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/ftoff.vim"
+Searching for "/var/lib/vim/addons/ftoff.vim"
+Searching for "/usr/share/vim/vimfiles/ftoff.vim"
+Searching for "/usr/share/vim/vim73/ftoff.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 1: sourcing "/usr/share/vim/vim73/ftoff.vim"
+finished sourcing /usr/share/vim/vim73/ftoff.vim
+continuing in /home/akash/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftoff.vim"
+Searching for "/var/lib/vim/addons/after/ftoff.vim"
+Searching for "/home/akash/.vim/after/ftoff.vim"
+Searching for "autoload/pathogen.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vim73/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/after/autoload/pathogen.vim"
+Searching for "/home/akash/.vim/after/autoload/pathogen.vim"
+not found in 'runtimepath': "autoload/pathogen.vim"
+Searching for "autoload/pathogen.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vim73/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/after/autoload/pathogen.vim"
+Searching for "/home/akash/.vim/after/autoload/pathogen.vim"
+not found in 'runtimepath': "autoload/pathogen.vim"
+                                                   Error detected while processing /home/akash/.vimrc:
+line    4:
+E117: Unknown function: pathogen#infect
+E15: Invalid expression: pathogen#infect()
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 5: sourcing "/usr/share/vim/vim73/syntax/syntax.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 15: sourcing "/usr/share/vim/vim73/syntax/nosyntax.vim"
+finished sourcing /usr/share/vim/vim73/syntax/nosyntax.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "syntax/synload.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/syntax/synload.vim"
+Searching for "/var/lib/vim/addons/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim73/syntax/synload.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim73/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim73/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim73/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+continuing in /usr/share/vim/vim73/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/akash/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/synload.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "filetype.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim73/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim73/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/home/akash/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/akash/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syntax.vim
+continuing in /home/akash/.vimrc
+Searching for "filetype.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 6: sourcing "/usr/share/vim/vim73/filetype.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /home/akash/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/akash/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/ftplugin.vim"
+Searching for "/var/lib/vim/addons/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim73/ftplugin.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 6: sourcing "/usr/share/vim/vim73/ftplugin.vim"
+finished sourcing /usr/share/vim/vim73/ftplugin.vim
+continuing in /home/akash/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/var/lib/vim/addons/after/ftplugin.vim"
+Searching for "/home/akash/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/indent.vim"
+Searching for "/var/lib/vim/addons/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim73/indent.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 6: sourcing "/usr/share/vim/vim73/indent.vim"
+finished sourcing /usr/share/vim/vim73/indent.vim
+continuing in /home/akash/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/var/lib/vim/addons/after/indent.vim"
+Searching for "/home/akash/.vim/after/indent.vim"
+Searching for "autoload/pathogen.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vim73/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/after/autoload/pathogen.vim"
+Searching for "/home/akash/.vim/after/autoload/pathogen.vim"
+not found in 'runtimepath': "autoload/pathogen.vim"
+line    7:
+E117: Unknown function: pathogen#runtime_append_all_bundles
+Searching for "autoload/pathogen.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vim73/autoload/pathogen.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/pathogen.vim"
+Searching for "/var/lib/vim/addons/after/autoload/pathogen.vim"
+Searching for "/home/akash/.vim/after/autoload/pathogen.vim"
+not found in 'runtimepath': "autoload/pathogen.vim"
+line    8:
+E117: Unknown function: pathogen#helptags
+finished sourcing $HOME/.vimrc
+Searching for "plugin/**/*.vim" in "/home/akash/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/akash/.vim/after"
+Searching for "/home/akash/.vim/plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim73/plugin/**/*.vim"
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim73/plugin/gzip.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim73/plugin/matchparen.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim73/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim73/plugin/spellfile.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim73/plugin/tohtml.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/after/plugin/**/*.vim"
+Searching for "/home/akash/.vim/after/plugin/**/*.vim"
+Reading viminfo file "/home/akash/.viminfo" info oldfiles
+Executing BufEnter Auto commands for "*"
+autocommand sil! call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand sil! call s:VimEnter(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+
+
+E492: Not an editor command: scripnames
+
